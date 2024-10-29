@@ -1,5 +1,5 @@
 # Here-Iam
-orge Jaime - Analista de Datos
+Jorge Jaime - Analista de Datos
 
 Soy Jorge Jaime, Ingeniero Petrolero con experiencia en la industria de petróleo y gas, especializado en técnicas avanzadas para la extracción de crudo pesado. Con un año de experiencia en ATP Engineering y el campo Rubiales de Ecopetrol, he desarrollado conocimientos en ingeniería operativa y coordinación de producción. Mi enfoque en la Recuperación Mejorada de Petróleo (EOR) con Calefacción por Inducción Electromagnética me ha llevado a comprender la importancia del análisis de datos en la optimización de operaciones energéticas.
 
